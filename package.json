@@ -1,0 +1,15 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:neripark/js-playground.git",
+  "author": "neripark <neripark@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "typescript": "^3.7.2"
+  }
+}
