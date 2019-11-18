@@ -1,9 +1,9 @@
 function template(str){
-  return str;
+  console.log(str);
 }
 
 const tmp = "hogehoge";
-template`test string${}`;
+template`test string${tmp}`;
 
 
 
